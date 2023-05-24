@@ -12,7 +12,7 @@ Proyecto creado para el control y monitoreo de un equipo de QA en el cual se uti
 
 ## Diagrama UML :
 
-![Diagrama UML proyecto calidad ](https://github.com/Jaime-U-Lopez/gwt-proyecto-QA/assets/50783391/5e80e425-fb53-4cc3-be3c-4c21b80cee13)
+![Diagrama UML proyecto calidad ](https://github.com/Jaime-U-Lopez/gwt-proyecto-QA/assets/50783391/29686d7d-cb23-4aa6-890f-e43b484fa325)
 
 
 Implementación y puesta en marcha del proyecoto .
