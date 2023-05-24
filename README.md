@@ -1,7 +1,7 @@
-# gwt-proyecto-QA
+# GWT - Proyecto - QA
 
 
-Proyecto creado para el control y monitoreo de un equipo de QA en el cual se utilizaron las siguiente metodologias y herramientas:
+Proyecto creado para el control y monitoreo de un equipo de QA en el cual se utilizaron las siguientes metodologias y herramientas:
 
 *  Java v 19
 *  IDE Eclipse 2023
@@ -21,7 +21,7 @@ Implementación y puesta en marcha del proyecoto .
 - Descomprima el archivo.
 - Importar el proyecto a Eclipse
 En el Filemenú, seleccione la Import...opción de menú.
-Seleccione la fuente de importación General > Proyectos existentes en el espacio de trabajo. Haga clic en el Nextbotón.
+- Seleccione la fuente de importación General > Proyectos existentes en el espacio de trabajo. Haga clic en el Nextbotón.
 
 
 NOTA 
@@ -30,8 +30,9 @@ NOTA
     * buscar   GWT Y dale instalar 
  
  - Una vez instalado el plugin parate en la carpeta y dale click izquierdo en la opcion de debug 
- - seleccion develoment mode (solo) para valida que el servidor cargue sin problemas
+ - seleccion GWT development Mode para valida que el servidor cargue sin problemas
  - Luego en :
+ - 
 ![image](https://github.com/Jaime-U-Lopez/gwt-proyecto-QA/assets/50783391/822e84c3-758f-4868-a77d-b6d90e6ffac7)
 
 
